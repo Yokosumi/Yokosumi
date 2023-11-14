@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Selman a.k.a @Yokosumi
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 selman.ciftci.coding@gmail.com
 
